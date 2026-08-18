@@ -768,7 +768,7 @@ h1, h2, h3, h4, h5, h6{
 .review_item:hover .review_img{
         border: 1px solid #fff;
 } 
-.review_item:hover .review_ditails h4, .review_item:hover .review_ditails h5, .review_item:hover .review_rating, .review_ditails .paragraph{
+.review_item:hover .review_ditails h4, .review_item:hover .review_ditails h5, .review_item:hover .review_rating,.review_item:hover .review_ditails .paragraph{
     color: #fff;
 }
 
